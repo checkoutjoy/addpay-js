@@ -1,6 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { CheckoutResource, CheckoutBuilder } from '../resources/checkout';
-import { HttpClient } from '../lib/http-client';
 import { CheckoutRequest } from '../types';
 
 vi.mock('../lib/http-client');
