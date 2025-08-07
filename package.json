@@ -1,6 +1,6 @@
 {
   "name": "addpay-js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "TypeScript SDK for AddPay Cloud API - CNP payment processing",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
