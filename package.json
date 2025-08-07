@@ -35,16 +35,16 @@
     "debicheck",
     "tokenization"
   ],
-  "author": "",
+  "author": "mdwt <meiring@checkoutjoy.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/addpay-js.git"
+    "url": "git+https://github.com/checkoutjoy/addpay-js.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/addpay-js/issues"
+    "url": "https://github.com/checkoutjoy/addpay-js/issues"
   },
-  "homepage": "https://github.com/yourusername/addpay-js#readme",
+  "homepage": "https://github.com/checkoutjoy/addpay-js#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.0",

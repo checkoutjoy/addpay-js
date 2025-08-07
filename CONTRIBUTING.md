@@ -6,7 +6,7 @@ Thank you for considering contributing to the AddPay JavaScript SDK! This docume
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/addpay-js.git
+   git clone https://github.com/checkoutjoy/addpay-js.git
    cd addpay-js
    ```
 

@@ -1,7 +1,7 @@
 # AddPay JavaScript SDK
 
-[![CI](https://github.com/yourusername/addpay-js/workflows/CI/badge.svg)](https://github.com/yourusername/addpay-js/actions/workflows/ci.yml)
-[![Release](https://github.com/yourusername/addpay-js/workflows/Release/badge.svg)](https://github.com/yourusername/addpay-js/actions/workflows/release.yml)
+[![CI](https://github.com/checkoutjoy/addpay-js/workflows/CI/badge.svg)](https://github.com/checkoutjoy/addpay-js/actions/workflows/ci.yml)
+[![Release](https://github.com/checkoutjoy/addpay-js/workflows/Release/badge.svg)](https://github.com/checkoutjoy/addpay-js/actions/workflows/release.yml)
 [![npm version](https://badge.fury.io/js/%40addpay%2Fsdk.svg)](https://badge.fury.io/js/%40addpay%2Fsdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
